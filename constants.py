@@ -1,0 +1,17 @@
+# Constants
+SCREEN_WIDTH = 1400
+SCREEN_HEIGHT = 850
+FPS = 60
+PLAYER_GRAVITY = 0.6
+JUMP_STRENGTH = -20
+OBSTACLE_SPEED = -10
+ANIMATION_SPEED = 0.2  # Control animation speed
+PLAYER_HEARTS = 3
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+SKY_BLUE = (135, 206, 235)
+
+# Sprite details
+GRASS_HEIGHT = 200
